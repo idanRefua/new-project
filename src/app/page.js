@@ -1,6 +1,6 @@
 "use client";
 import HomeComponent from "./components/home/HomeComponent";
-import AboutUs from "./components/aboutus/page";
+import AboutUs from "./components/aboutus/AboutUs";
 import OurArts from "./components/OurArts/OurArts";
 import LeftDiv from "./components/LeftDiv/LeftDiv";
 import RightDivAnimation from "./components/RightDivAnimation/RightDivAnimation";
